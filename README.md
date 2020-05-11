@@ -5,4 +5,4 @@ username: user
 password: password
 ```
 
-> Note:  Credentials are hardcoded in Javascript.
+*Importart Note:* Credentials are hardcoded in Javascript. Not to be used for production! 
